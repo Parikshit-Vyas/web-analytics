@@ -37,6 +37,8 @@
 
 9.[Website Metrics Article 1](https://www.theserverside.com/feature/6-top-webpage-performance-metrics-to-monitor)
 
+10.[Very Important Article with many resources](https://www.appdynamics.com/blog/engineering/performance-testing-for-modern-apps/)
+
 
 
 
